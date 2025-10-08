@@ -1,4 +1,4 @@
-# Dependencias mínimas para entorno Python
-# (Agrega aquí nombre de librerías si las necesitas)
-
-# Por defecto lo dejaré vacío para testear si Codex reconoce el archivo.
+pandas>=2.0
+python-dateutil>=2.8.2
+openpyxl>=3.1
+beautifulsoup4>=4.12
