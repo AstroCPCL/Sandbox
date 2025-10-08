@@ -1,0 +1,4 @@
+# Dependencias mínimas para entorno Python
+# (Agrega aquí nombre de librerías si las necesitas)
+
+# Por defecto lo dejaré vacío para testear si Codex reconoce el archivo.
